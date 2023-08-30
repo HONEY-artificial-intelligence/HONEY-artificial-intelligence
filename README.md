@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rajesh Mondal</h1>
+<h1 align="center">Hi 👋, I'm Honey AI</h1>
 <h3 align="center">A Python developer</h3>
 
-- 🔭 I’m currently working on **HONEY AI**
+- 🔭 I’m currently working on **AI Assistant Project**
 
-- 🌱 I’m currently learning **Machine Learning using Python**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- ⚡ Fun fact **I think I am hungry learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
