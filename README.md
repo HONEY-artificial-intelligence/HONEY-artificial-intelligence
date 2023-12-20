@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey AI</h1>
 <h3 align="center">AI Model</h3>
 
-- 🔭 I’m currently working on **AI Assistant Project**
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🔭 I’m currently **Under Development**
 
 
 <h3 align="left">Languages and Tools:</h3>
